@@ -14,4 +14,11 @@
 * git push -u origin main // Pousse (envoie) la branche locale main vers la branche main du dépôt distant origin. Le -u (ou --set-upstream) : Configure la branche main locale pour suivre la branche main distante. Cela permet de faire ensuite juste git push ou git pull sans arguments.
 
 
+* git restore --staged nom_fichier // Pour replacer le fichier modifié dans la zone d indexation
 
+## Rédiger un commit
+...
+Titre du commit
+
+Description de notre commit avec des informations de l'evolution du projet
+...
