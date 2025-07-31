@@ -26,4 +26,4 @@ Description de notre commit avec des informations de l'evolution du projet
 ## Création d une nouvelle branche
 ...
 Ajout d une nouvelle branch "develop"
-git checkout -b NOM_BRANCHE
+*git checkout -b NOM_BRANCHE
