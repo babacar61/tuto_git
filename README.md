@@ -27,3 +27,5 @@ Description de notre commit avec des informations de l'evolution du projet
 ...
 Ajout d une nouvelle branch "develop"
 *git checkout -b NOM_BRANCHE
+
+Pour les bonnes pratique, on va intégrer la notion de revue de code. L'objectif est que si plusieurs developeurs travaillent sur un même projet, que chaque modification puisse être revue par le chef de projet avant d'être validée.
